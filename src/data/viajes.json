@@ -1,0 +1,40 @@
+{
+"viajes": [
+{
+"id": 1,
+"destino": "Bariloche y Ruta de los 7 Lagos",
+"descripcion": "Descubrí la magia de la Patagonia Argentina con sus lagos cristalinos y montañas imponentes.",
+"precioBase": 450000,
+"imagen": "https://kimi-web-img.moonshot.cn/img/todobienmama.com/14bd1b9797c9ed85bfcbb55761b831c08ac7c0ce.jpg",
+"itinerario": [
+"Día 1: Llegada y check-in. Tarde libre en el Centro Cívico.",
+"Día 2: Circuito Chico y ascenso al Cerro Campanario.",
+"Día 3: Recorrido completo por la Ruta de los 7 Lagos hasta San Martín de los Andes."
+]
+},
+{
+"id": 2,
+"destino": "Cataratas del Iguazú",
+"descripcion": "Sumergite en la selva misionera y sentí el poder de una de las 7 Maravillas Naturales del Mundo.",
+"precioBase": 320000,
+"imagen": "https://kimi-web-img.moonshot.cn/img/aborigen-tours.com/ca9ddd96d2fb651d6bd083f3fad608532f360a41.jpg",
+"itinerario": [
+"Día 1: Recepción y visita al Hito de las Tres Fronteras.",
+"Día 2: Parque Nacional Iguazú (Lado Argentino) y Garganta del Diablo.",
+"Día 3: Parque Nacional (Lado Brasileño) y Parque das Aves."
+]
+},
+{
+"id": 3,
+"destino": "Norte Argentino (Salta y Jujuy)",
+"descripcion": "Un viaje por los colores, la cultura y la gastronomía del norte de nuestro país.",
+"precioBase": 380000,
+"imagen": "https://kimi-web-img.moonshot.cn/img/turismo-en-argentina.com/335eaeafe7b689af536a7f382df6c61d2a5c823b.jpg",
+"itinerario": [
+"Día 1: City tour por Salta Capital y ascenso al Cerro San Bernardo.",
+"Día 2: Excursión a la Quebrada de Humahuaca y Purmamarca.",
+"Día 3: Visita a las Salinas Grandes y regreso."
+]
+}
+]
+}

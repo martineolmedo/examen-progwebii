@@ -1,0 +1,113 @@
+{
+    "categorias": [
+        {
+            "viajeId": 1,
+            "opciones": [
+                {
+                    "id": "op1",
+                    "nombre": "Estándar",
+                    "incremento": 0,
+                    "incluye": [
+                        "Bus semicama",
+                        "Hostel céntrico con desayuno",
+                        "Excursiones regulares"
+                    ]
+                },
+                {
+                    "id": "op2",
+                    "nombre": "Confort",
+                    "incremento": 20,
+                    "incluye": [
+                        "Vuelo clase turista",
+                        "Hotel 3 estrellas",
+                        "Excursiones regulares",
+                        "Cenas incluidas"
+                    ]
+                },
+                {
+                    "id": "op3",
+                    "nombre": "Premium",
+                    "incremento": 45,
+                    "incluye": [
+                        "Vuelo directo",
+                        "Resort 5 estrellas frente al lago",
+                        "Excursiones privadas",
+                        "Pensión completa"
+                    ]
+                }
+            ]
+        },
+        {
+            "viajeId": 2,
+            "opciones": [
+                {
+                    "id": "op4",
+                    "nombre": "Estándar",
+                    "incremento": 0,
+                    "incluye": [
+                        "Bus cama",
+                        "Hotel 2 estrellas en Puerto Iguazú",
+                        "Entradas a los parques"
+                    ]
+                },
+                {
+                    "id": "op5",
+                    "nombre": "Aventura",
+                    "incremento": 15,
+                    "incluye": [
+                        "Vuelo turista",
+                        "Hotel 3 estrellas con piscina",
+                        "Paseo en lancha 'Gran Aventura' bajo los saltos"
+                    ]
+                },
+                {
+                    "id": "op6",
+                    "nombre": "Eco-Lodge VIP",
+                    "incremento": 50,
+                    "incluye": [
+                        "Vuelo directo",
+                        "Alojamiento en Lodge dentro de la selva",
+                        "Spa",
+                        "Guía naturalista privado"
+                    ]
+                }
+            ]
+        },
+        {
+            "viajeId": 3,
+            "opciones": [
+                {
+                    "id": "op7",
+                    "nombre": "Estándar Mochilero",
+                    "incremento": 0,
+                    "incluye": [
+                        "Bus desde origen",
+                        "Hostales en Salta y Tilcara",
+                        "Recorridos libres"
+                    ]
+                },
+                {
+                    "id": "op8",
+                    "nombre": "Confort",
+                    "incremento": 25,
+                    "incluye": [
+                        "Vuelo turista",
+                        "Hoteles boutique 3 estrellas",
+                        "Traslados en combi con aire acondicionado"
+                    ]
+                },
+                {
+                    "id": "op9",
+                    "nombre": "Ruta del Vino Premium",
+                    "incremento": 60,
+                    "incluye": [
+                        "Vuelo directo",
+                        "Noches en finca bodeguera en Cafayate",
+                        "Vehículo 4x4 privado",
+                        "Degustaciones exclusivas"
+                    ]
+                }
+            ]
+        }
+    ]
+}
